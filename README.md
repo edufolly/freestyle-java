@@ -3,14 +3,14 @@
 ## Objetivos
 
 ### Programação Orientada a Objetos
-- [ ] Classes e Objetos
-- [ ] Herança
-- [ ] Interfaces 
-- [ ] Classes Abstratas
-- [ ] Polimorfismo
-- [ ] Sobrecarga de métodos
-- [ ] Métodos e Atributos Estáticos
-- [ ] Herança Múltipla ou Mixins
+- [X] Classes e Objetos
+- [X] Herança
+- [X] Classes Abstratas
+- [X] Interfaces 
+- [X] Polimorfismo
+- [X] Sobrecarga de métodos
+- [X] Métodos e Atributos Estáticos
+- [X] Herança Múltipla ou Mixins
 
 
 ### Links
